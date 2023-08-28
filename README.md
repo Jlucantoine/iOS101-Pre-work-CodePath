@@ -23,7 +23,7 @@ The following **suggeted** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='file:///private/var/folders/sx/6b57lfk5699_dw8q7xvss_ch0000gn/T/d2698205adb4ed33ef8dc4f750a348d4/Kapture%202023-08-27%20at%2023.58.06.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
